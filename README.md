@@ -46,31 +46,31 @@ Pérez Tadeo, M. & Gammell, M. (2018). Activity budgets in different habitats of
 
 McFarlane, A., O’Brien, J. & Gammell, M. (2018). Observations on breeding of native Irish White-Clawed Crayfish (*Austropotamobius pallipes*) in captivity. *Irish Naturalists’ Journal* 36: 18-22. :lobster:
 
-Jennings, D.J., Boys, R. & Gammell, M.P. (2018). Suffering third-party intervention during fighting is associated with reduced mating success in the fallow deer. *Animal Behaviour* 139: 1-8. 
+Jennings, D.J., Boys, R. & Gammell, M.P. (2018). Suffering third-party intervention during fighting is associated with reduced mating success in the fallow deer. *Animal Behaviour* 139: 1-8. https://doi.org/10.1016/j.anbehav.2018.02.016 :deer:
 
-Doyle, D., Gammell, M.P. & Nash, R. (2018). Morphometric methods for the analysis and classification of gastropods: a comparison using *Littorina littorea*. *Journal of Molluscan Studies* 84: 190-197.
+Doyle, D., Gammell, M.P. & Nash, R. (2018). Morphometric methods for the analysis and classification of gastropods: a comparison using *Littorina littorea*. *Journal of Molluscan Studies* 84: 190-197. https://doi.org/10.1093/mollus/eyy010 :shell:
 
-Bolgan, M., O’Brien, J., Chorazyczewska, E., Winfield, I.J., McCullough, P. & Gammell, M. (2018). The soundscape of Arctic Charr spawning grounds in lotic and lentic environments: can passive acoustic monitoring be used to detect spawning activities? *Bioacoustics* 27: 57-85.
+Bolgan, M., O’Brien, J., Chorazyczewska, E., Winfield, I.J., McCullough, P. & Gammell, M. (2018). The soundscape of Arctic Charr spawning grounds in lotic and lentic environments: can passive acoustic monitoring be used to detect spawning activities? *Bioacoustics* 27: 57-85. https://doi.org/10.1080/09524622.2017.1286262 :fish:
 
-Jennings, D.J. & Gammell, M.P. (2018). Lateralization during lateral display and its relationship with antler size and symmetry in fallow deer (*Dama dama*). *Laterality: Asymmetries of Body, Brain and Cognition* 23: 1-19.
+Jennings, D.J. & Gammell, M.P. (2018). Lateralization during lateral display and its relationship with antler size and symmetry in fallow deer (*Dama dama*). *Laterality: Asymmetries of Body, Brain and Cognition* 23: 1-19. https://doi.org/10.1080/1357650X.2017.1293074 :deer:
 
-Bolgan, M., O'Brien, J., Picciulin, M., Manning, L. & Gammell, M. (2017). Behaviour of Arctic charr during an induced mating season in captivity: how male relative size influences male behavioural investment and female preference over time. *Journal of Fish Biology* 90: 1479–1505.
+Bolgan, M., O'Brien, J., Picciulin, M., Manning, L. & Gammell, M. (2017). Behaviour of Arctic charr during an induced mating season in captivity: how male relative size influences male behavioural investment and female preference over time. *Journal of Fish Biology* 90: 1479–1505. https://doi.org/10.1111/jfb.13244 :fish:
 
-Jennings, D.J., Boys, R. & Gammell, M.P. (2017). Investigating variation in third-party intervention behavior during a fallow deer (*Dama dama*) rut. *Behavioral Ecology* 28: 288-293.
+Jennings, D.J., Boys, R. & Gammell, M.P. (2017). Investigating variation in third-party intervention behavior during a fallow deer (*Dama dama*) rut. *Behavioral Ecology* 28: 288-293. https://doi.org/10.1093/beheco/arw156 :deer:
 
-Jennings, D.J., Boys, R.J. & Gammell, M.P. (2017). Weapon damage is associated with contest dynamics but not mating success in fallow deer (*Dama dama*). *Biology Letters* 13: DOI: 10.1098/rsbl.2017.0565
+Jennings, D.J., Boys, R.J. & Gammell, M.P. (2017). Weapon damage is associated with contest dynamics but not mating success in fallow deer (*Dama dama*). *Biology Letters* 13: 20170565. https://doi.org/10.1098/rsbl.2017.0565
 
-Bolgan, M., Chorazyczewska, E., Winfield, I.J., Codarin, A., O'Brien, J., & Gammell, M. (2016). First observations of anthropogenic underwater noise in a large multi-use lake. *Journal of Limnology* 75: 644-651
+Bolgan, M., Chorazyczewska, E., Winfield, I.J., Codarin, A., O'Brien, J., & Gammell, M. (2016). First observations of anthropogenic underwater noise in a large multi-use lake. *Journal of Limnology* 75: 644-651. https://doi.org/10.4081/jlimnol.2016.1405 :national_park:
 
-Bolgan, M., O'Brien, J. & Gammell, M. (2016). The behavioural repertoire of Arctic charr (*Salvelinus alpinus* (L.)) in captivity: a case study for testing ethogram completeness and reducing observer effects. *Ecology of Freshwater Fish* 25: 318–328.
+Bolgan, M., O'Brien, J. & Gammell, M. (2016). The behavioural repertoire of Arctic charr (*Salvelinus alpinus* (L.)) in captivity: a case study for testing ethogram completeness and reducing observer effects. *Ecology of Freshwater Fish* 25: 318–328. https://doi.org/10.1111/eff.12212 :fish:
 
-Bolgan, M., O'Brien, J., Rountree, R. & Gammell, M. (2016). Does the Arctic charr, *Salvelinus alpinus*, produce sounds in a captive setting? *Journal of Fish Biology* 89: 1857–1865.
+Bolgan, M., O'Brien, J., Rountree, R. & Gammell, M. (2016). Does the Arctic charr, *Salvelinus alpinus*, produce sounds in a captive setting? *Journal of Fish Biology* 89: 1857–1865. https://doi.org/10.1111/jfb.13067 :fish:
 
-Briffa, M., Hardy, I.C.W., Gammell, M.P., Jennings, D.J., Clarke, D.D. & Goubault, M. (2013). Analysis of animal contest data. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 47-85. Cambridge: Cambridge University Press.
+Briffa, M., Hardy, I.C.W., Gammell, M.P., Jennings, D.J., Clarke, D.D. & Goubault, M. (2013). Analysis of animal contest data. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 47-85. Cambridge: Cambridge University Press. :chart_with_upwards_trend:
 
-Gammell, M.P. & O'Brien, J.M. (2013). Acoustic communication in aquatic animals: all quiet on the freshwater front? *Aquatic Conservation: Marine and Freshwater Ecosystems* 23: 363-365.
+Gammell, M.P. & O'Brien, J.M. (2013). Acoustic communication in aquatic animals: all quiet on the freshwater front? *Aquatic Conservation: Marine and Freshwater Ecosystems* 23: 363-365. https://doi.org/10.1002/aqc.2356 :microphone: :studio_microphone:
 
-Hawkins, D., Gallacher, E. & Gammell, M. (2013). Statistical power, effect size and animal welfare: recommendations for good practice. *Animal Welfare* 22: 339-344.
+Hawkins, D., Gallacher, E. & Gammell, M. (2013). Statistical power, effect size and animal welfare: recommendations for good practice. *Animal Welfare* 22: 339-344. https://doi.org/10.7120/09627286.22.3.339 :chart_with_upwards_trend:
 
 Jennings, D.J. & Gammell, M.P. (2013). Contest behaviour in ungulates. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 304-320. Cambridge: Cambridge University Press.
 
