@@ -34,13 +34,13 @@ McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). Estimating the 
 
 McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). The behavioural response of the white-clawed crayfish (*Austropotamobius pallipes*) to five standard marking techniques over a 14-day period. *Marine and Freshwater Behaviour and Physiology* 52: 181-197. https://doi.org/10.1080/10236244.2019.1659736 :lobster:
 
-Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Nutrient pollution degrades microbialites in Lough Carra, an Irish marl lake. *Aquatic Microbial Ecology* 83: 203-209.
+Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Nutrient pollution degrades microbialites in Lough Carra, an Irish marl lake. *Aquatic Microbial Ecology* 83: 203-209. https://doi.org/10.3354/ame01917 :national_park:
 
-Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Microbialite crusts in Irish limestone lakes reflect lake nutrient status. *Biology and Environment: Proceedings of the Royal Irish Academy* 119B: 1-11.
+Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Microbialite crusts in Irish limestone lakes reflect lake nutrient status. *Biology and Environment: Proceedings of the Royal Irish Academy* 119B: 1-11. https://doi.org/10.1353/bae.2019.0003 :national_park:
 
-O’Connor, J.P., O’Connor, M.A. & Gammell, M.P. (2019). The caddisfly *Hydropsyche fulvipes* (Curtis, 1834) (Trichoptera: Hydropsychidae): finally confirmed as an Irish species. *The Entomologist’s Record and Journal of Variation* 131: 26-31.
+O’Connor, J.P., O’Connor, M.A. & Gammell, M.P. (2019). The caddisfly *Hydropsyche fulvipes* (Curtis, 1834) (Trichoptera: Hydropsychidae): finally confirmed as an Irish species. *The Entomologist’s Record and Journal of Variation* 131: 26-31. :fly:
 
-Gammell, M.P.,  Carlin, C.M, O’Connor, J.P., O’Connor, M.A. & Brophy, J.T. (2018). The window winged sedge *Hagenella clathrata* (Kolenati, 1848) (Trichoptera: Phryganeidae) confirmed as an Irish species. *Bulletin of the Irish Biogeographical Society* 42: 45-57.
+Gammell, M.P.,  Carlin, C.M, O’Connor, J.P., O’Connor, M.A. & Brophy, J.T. (2018). The window winged sedge *Hagenella clathrata* (Kolenati, 1848) (Trichoptera: Phryganeidae) confirmed as an Irish species. *Bulletin of the Irish Biogeographical Society* 42: 45-57. :fly:
 
 Pérez Tadeo, M. & Gammell, M. (2018). Activity budgets in different habitats of a species of conservation concern in Ireland, the Light-bellied Brent Goose *Branta bernicla hrota*. *Wildfowl* 68: 84–103.
 
