@@ -42,11 +42,11 @@ O’Connor, J.P., O’Connor, M.A. & Gammell, M.P. (2019). The caddisfly *Hydrop
 
 Gammell, M.P.,  Carlin, C.M, O’Connor, J.P., O’Connor, M.A. & Brophy, J.T. (2018). The window winged sedge *Hagenella clathrata* (Kolenati, 1848) (Trichoptera: Phryganeidae) confirmed as an Irish species. *Bulletin of the Irish Biogeographical Society* 42: 45-57. :fly:
 
-Pérez Tadeo, M. & Gammell, M. (2018). Activity budgets in different habitats of a species of conservation concern in Ireland, the Light-bellied Brent Goose *Branta bernicla hrota*. *Wildfowl* 68: 84–103.
+Pérez Tadeo, M. & Gammell, M. (2018). Activity budgets in different habitats of a species of conservation concern in Ireland, the Light-bellied Brent Goose *Branta bernicla hrota*. [*Wildfowl* 68: 84–103](https://wildfowl.wwt.org.uk/index.php/wildfowl/article/view/2678/pdf_146). :duck:
 
-McFarlane, A., O’Brien, J. & Gammell, M. (2018). Observations on breeding of native Irish White-Clawed Crayfish (*Austropotamobius pallipes*) in captivity. *Irish Naturalists’ Journal* 36: 18-22.
+McFarlane, A., O’Brien, J. & Gammell, M. (2018). Observations on breeding of native Irish White-Clawed Crayfish (*Austropotamobius pallipes*) in captivity. *Irish Naturalists’ Journal* 36: 18-22. :lobster:
 
-Jennings, D.J., Boys, R. & Gammell, M.P. (2018). Suffering third-party intervention during fighting is associated with reduced mating success in the fallow deer. *Animal Behaviour* 139: 1-8.
+Jennings, D.J., Boys, R. & Gammell, M.P. (2018). Suffering third-party intervention during fighting is associated with reduced mating success in the fallow deer. *Animal Behaviour* 139: 1-8. 
 
 Doyle, D., Gammell, M.P. & Nash, R. (2018). Morphometric methods for the analysis and classification of gastropods: a comparison using *Littorina littorea*. *Journal of Molluscan Studies* 84: 190-197.
 
