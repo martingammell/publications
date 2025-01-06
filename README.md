@@ -80,25 +80,25 @@ Jennings, D.J., Elwood, R.W., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2012).
 
 Lally, H., Gormally, M., Higgins, T., Gammell, M. & Colleran, E. (2012). Phytoplankton assemblages in four wetlands created on cutaway peatlands in Ireland. *Biology and Environment: Proceedings of the Royal Irish Academy* 112(B): 207-216. https://doi.org/10.3318/BIOE.2012.07
 
-Carden, R.F., Carlin, C.M., Marnell, F., McElholm, D., Hetherington, J. & Gammell, M.P. (2011). Distribution and range expansion of deer in Ireland. *Mammal Review* 41: 313-325.
+Carden, R.F., Carlin, C.M., Marnell, F., McElholm, D., Hetherington, J. & Gammell, M.P. (2011). Distribution and range expansion of deer in Ireland. *Mammal Review* 41: 313-325. https://doi.org/10.1111/j.1365-2907.2010.00170.x :deer:
 
-Jennings, D.J., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2011). Third-party intervention behaviour during fallow deer fights: the role of dominance, age, fighting and body size. *Animal Behaviour* 81:1217-1222.
+Jennings, D.J., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2011). Third-party intervention behaviour during fallow deer fights: the role of dominance, age, fighting and body size. *Animal Behaviour* 81:1217-1222. https://doi.org/10.1016/j.anbehav.2011.03.007 :deer:
 
-Smith, D.R., Hardy, I.C.W. & Gammell, M.P. (2011). Power rangers: no improvement in the statistical power of analyses published in Animal Behaviour. *Animal Behaviour* 81: 347-352.
+Smith, D.R., Hardy, I.C.W. & Gammell, M.P. (2011). Power rangers: no improvement in the statistical power of analyses published in Animal Behaviour. *Animal Behaviour* 81: 347-352. https://doi.org/10.1016/j.anbehav.2010.09.026 :chart_with_upwards_trend:
 
-Jennings, D.J., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2010). Investment in fighting in relation to body condition, age and dominance rank in male fallow deer, *Dama dama*. *Animal Behaviour* 79: 1293-1300.
+Jennings, D.J., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2010). Investment in fighting in relation to body condition, age and dominance rank in male fallow deer, *Dama dama*. *Animal Behaviour* 79: 1293-1300. https://doi.org/10.1016/j.anbehav.2010.02.031 :deer:
 
-Jennings, D.J., Carlin, C.M. & Gammell, M.P. (2009). A winner effect supports third-party intervention behaviour during fallow deer, *Dama dama*, fights. *Animal Behaviour* 77: 343-348.
+Jennings, D.J., Carlin, C.M. & Gammell, M.P. (2009). A winner effect supports third-party intervention behaviour during fallow deer, *Dama dama*, fights. *Animal Behaviour* 77: 343-348. https://doi.org/10.1016/j.anbehav.2008.10.006 :deer:
 
-Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2006). Is difference in body weight, antler length, age or dominance rank related to the number of fights between fallow deer (*Dama dama*)? *Ethology* 112: 258-269.
+Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2006). Is difference in body weight, antler length, age or dominance rank related to the number of fights between fallow deer (*Dama dama*)? *Ethology* 112: 258-269. https://doi.org/10.1111/j.1439-0310.2006.01154.x :deer:
 
-Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2005). Win, lose or draw: a comparison of fight structure based on fight conclusion in the fallow deer. *Behaviour* 142: 423-439.
+Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2005). Win, lose or draw: a comparison of fight structure based on fight conclusion in the fallow deer. *Behaviour* 142: 423-439. https://doi.org/10.1163/1568539054012001 :deer:
 
-Jennings, D.J., Gammell, M.P., Payne, R.J.H & Hayden, T.J. (2005). An investigation of assessment games during fallow deer fights. *Ethology* 111: 511-525.
+Jennings, D.J., Gammell, M.P., Payne, R.J.H & Hayden, T.J. (2005). An investigation of assessment games during fallow deer fights. *Ethology* 111: 511-525. https://doi.org/10.1111/j.1439-0310.2005.01068.x :deer:
 
-Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2004). Effect of body weight, antler length, resource value and experience on fight duration and intensity in fallow deer. *Animal Behaviour* 68: 231-221.
+Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2004). Effect of body weight, antler length, resource value and experience on fight duration and intensity in fallow deer. *Animal Behaviour* 68: 231-221. https://doi.org/10.1016/j.anbehav.2003.11.005 :deer:
 
-Gammell, M.P. & Hardy, I.C.W. (2003). Contest duration: sizing up the opposition? *Trends in Ecology & Evolution* 18: 491-493.
+Gammell, M.P. & Hardy, I.C.W. (2003). Contest duration: sizing up the opposition? *Trends in Ecology & Evolution* 18: 491-493. https://doi.org/10.1016/S0169-5347(03)00222-2
 
 Gammell, M.P., de Vries, H., Jennings, D.J., Carlin, C.M. & Hayden, T.J. (2003). David’s score: a more appropriate dominance ranking method than Clutton-Brock et al.’s index. *Animal Behaviour* 66: 601-605.
 
