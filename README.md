@@ -2,15 +2,15 @@
 
 O’Callaghan, S., Al Abbar, F., Costa, H., Prieto, R., Gammell, M. & O'Brien, J. (2024). Aerial Photo-Identification of Sperm Whales (*Physeter macrocephalus*). *Aquatic Mammals* 50: 479-494. https://doi.org/10.1578/AM.50.6.2024.479 :whale:
 
-O’Callaghan, S., Griffin, B., Levesque, S., Gammell, M. & O'Brien, J. (2024). Female, juvenile, and calf sperm whale *Physeter macrocephalus* (Linnaeus 1758) records from Ireland. *Ecology and Evolution* 14: e70056.
+O’Callaghan, S., Griffin, B., Levesque, S., Gammell, M. & O'Brien, J. (2024). Female, juvenile, and calf sperm whale *Physeter macrocephalus* (Linnaeus 1758) records from Ireland. *Ecology and Evolution* 14: e70056. https://doi.org/10.1002/ece3.70056 :whale:
 
-Cappelli, G., Gray, E., Gammell, M., Roden, C. & Lally, H. (2023). Physico-chemical characterisation of protected lake habitats: a matter of dystrophy. *Limnologica* 103: 126123.
+Cappelli, G., Gray, E., Gammell, M., Roden, C. & Lally, H. (2023). Physico-chemical characterisation of protected lake habitats: a matter of dystrophy. *Limnologica* 103: 126123. https://doi.org/10.1016/j.limno.2023.126123 and Corrigendum at https://doi.org/10.1016/j.limno.2024.126161 :national_park:
 
-Jennings, D.J. & Gammell, M.P. (2023). Fluctuating asymmetry of fallow deer antlers is associated with weapon damage but not tactical behaviour during fights. *Symmetry* 15: 829. doi.org/10.3390/sym15040829 
+Jennings, D.J. & Gammell, M.P. (2023). Fluctuating asymmetry of fallow deer antlers is associated with weapon damage but not tactical behaviour during fights. *Symmetry* 15: 829. https://doi.org/10.3390/sym15040829 :deer:
 
-Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2023). First steps towards the automated detection of underwater vocalisations of Grey Seals (Halichoerus grypus) in the Blasket Islands, Southwest Ireland. *Journal of Marine Science and Engineering* 11(2), 351: https://doi.org/10.3390/jmse11020351 
+Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2023). First steps towards the automated detection of underwater vocalisations of Grey Seals (Halichoerus grypus) in the Blasket Islands, Southwest Ireland. *Journal of Marine Science and Engineering* 11: 351. https://doi.org/10.3390/jmse11020351 :seal:
 
-Pérez Tadeo, M., Gammell, M., O'Callaghan, S.A., O'Connor, I. & O'Brien, J. (2023). Disturbances due to unmanned aerial vehicles (UAVs) on Harbor Seal (*Phoca vitulina*) colonies: recommendations on best practices . *Marine Mammal Science*: https://doi.org/10.1111/mms.13002 
+Pérez Tadeo, M., Gammell, M., O'Callaghan, S.A., O'Connor, I. & O'Brien, J. (2023). Disturbances due to unmanned aerial vehicles (UAVs) on Harbor Seal (*Phoca vitulina*) colonies: recommendations on best practices . *Marine Mammal Science* 39: 757-779. https://doi.org/10.1111/mms.13002 :seal:
 
 Jennings, D.J. & Gammell, M.P. (2022). Bystander fallow deer engage in third-party behaviour based on similarities in contestant resource-holding potential. *Animal Behaviour* 191: 33-41.
 
