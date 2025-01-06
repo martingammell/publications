@@ -22,17 +22,17 @@ Gammell, M. & Carlin, C. (2021). First records of the Brown Hairstreak Butterfly
 
 Gammell, M., McFarlane, A., Brady, D., O’Brien, J., Mirimin, L., Graham, C., Lally, H., Minto, C. & O’Connor, I. (2021). White-clawed Crayfish *Austropotamobius pallipes* survey in designated SACs in 2017. [Irish Wildlife Manuals, No. 131](https://www.npws.ie/sites/default/files/publications/pdf/IWM131.pdf). National Parks and Wildlife Service, Department of Housing, Local Government and Heritage, Ireland. :lobster:
 
-Jennings, D.J., Amin, B. & Gammell, M.P. (2021). Third-party assessment of contestants during fallow deer fights increases with resource abundance and dominance rank. *Animal Behaviour* 177: 81-89.
+Jennings, D.J., Amin, B. & Gammell, M.P. (2021). Third-party assessment of contestants during fallow deer fights increases with resource abundance and dominance rank. *Animal Behaviour* 177: 81-89. https://doi.org/10.1016/j.anbehav.2021.04.020 :deer:
 
-Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2021). Assessment of anthropogenic disturbances due to ecotourism on a grey seal (*Halichoerus grypus*) colony in the Blasket Islands SAC, SW Ireland and recommendations on best practices. *Aquatic Mammals* 47: 268-282.
+Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2021). Assessment of anthropogenic disturbances due to ecotourism on a grey seal (*Halichoerus grypus*) colony in the Blasket Islands SAC, SW Ireland and recommendations on best practices. *Aquatic Mammals* 47: 268-282. https://doi.org/10.1578/AM.47.3.2021.268 :seal:
 
-Doyle, D., Frias, J., Nash, R. & Gammell, M. (2020). Current environmental microplastic levels do not alter emergence behaviour in the intertidal gastropod *Littorina littorea*. *Marine Pollution Bulletin* 151: 110859.
+Doyle, D., Frias, J., Nash, R. & Gammell, M. (2020). Current environmental microplastic levels do not alter emergence behaviour in the intertidal gastropod *Littorina littorea*. *Marine Pollution Bulletin* 151: 110859. https://doi.org/10.1016/j.marpolbul.2019.110859 :shell:
 
-Doyle, D., Gammell, M., Frias, J., Griffin, G. & Nash, R. (2019). Low levels of microplastics recorded from the common periwinkle, Littorina littorea on the west coast of Ireland. Marine Pollution Bulletin 149: 110645.
+Doyle, D., Gammell, M., Frias, J., Griffin, G. & Nash, R. (2019). Low levels of microplastics recorded from the common periwinkle, Littorina littorea on the west coast of Ireland. Marine Pollution Bulletin 149: 110645. https://doi.org/10.1016/j.marpolbul.2019.110645 :shell:
 
-McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). Estimating the population size of the endangered white-clawed crayfish *Austropotamobius pallipes* using mark-recapture at three Special Areas of Conservation (SACS). *Biology and Environment: Proceedings of the Royal Irish Academy* 119B: 75-91.
+McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). Estimating the population size of the endangered white-clawed crayfish *Austropotamobius pallipes* using mark-recapture at three Special Areas of Conservation (SACS). *Biology and Environment: Proceedings of the Royal Irish Academy* 119B: 75-91. https://doi.org/10.3318/bioe.2019.08 :lobster:
 
-McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). The behavioural response of the white-clawed crayfish (*Austropotamobius pallipes*) to five standard marking techniques over a 14-day period. *Marine and Freshwater Behaviour and Physiology* 52: 181-197.
+McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). The behavioural response of the white-clawed crayfish (*Austropotamobius pallipes*) to five standard marking techniques over a 14-day period. *Marine and Freshwater Behaviour and Physiology* 52: 181-197. https://doi.org/10.1080/10236244.2019.1659736 :lobster:
 
 Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Nutrient pollution degrades microbialites in Lough Carra, an Irish marl lake. *Aquatic Microbial Ecology* 83: 203-209.
 
