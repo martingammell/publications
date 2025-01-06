@@ -68,17 +68,17 @@ Bolgan, M., O'Brien, J., Rountree, R. & Gammell, M. (2016). Does the Arctic char
 
 Briffa, M., Hardy, I.C.W., Gammell, M.P., Jennings, D.J., Clarke, D.D. & Goubault, M. (2013). Analysis of animal contest data. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 47-85. Cambridge: Cambridge University Press. :chart_with_upwards_trend:
 
-Gammell, M.P. & O'Brien, J.M. (2013). Acoustic communication in aquatic animals: all quiet on the freshwater front? *Aquatic Conservation: Marine and Freshwater Ecosystems* 23: 363-365. https://doi.org/10.1002/aqc.2356 :microphone: :studio_microphone:
+Gammell, M.P. & O'Brien, J.M. (2013). Acoustic communication in aquatic animals: all quiet on the freshwater front? *Aquatic Conservation: Marine and Freshwater Ecosystems* 23: 363-365. https://doi.org/10.1002/aqc.2356 :studio_microphone:
 
 Hawkins, D., Gallacher, E. & Gammell, M. (2013). Statistical power, effect size and animal welfare: recommendations for good practice. *Animal Welfare* 22: 339-344. https://doi.org/10.7120/09627286.22.3.339 :chart_with_upwards_trend:
 
-Jennings, D.J. & Gammell, M.P. (2013). Contest behaviour in ungulates. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 304-320. Cambridge: Cambridge University Press.
+Jennings, D.J. & Gammell, M.P. (2013). Contest behaviour in ungulates. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 304-320. Cambridge: Cambridge University Press. :deer:
 
-Jennings, D.J., Hayden, T.J. & Gammell, M.P. (2013). Personality and predictability in fallow deer fighting behaviour: the relationship with mating success. *Animal Behaviour* 86: 1041-1047.
+Jennings, D.J., Hayden, T.J. & Gammell, M.P. (2013). Personality and predictability in fallow deer fighting behaviour: the relationship with mating success. *Animal Behaviour* 86: 1041-1047. https://doi.org/10.1016/j.anbehav.2013.09.009 :deer:
 
-Jennings, D.J., Elwood, R.W., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2012). Vocal rate as an assessment process during fallow deer contests. *Behavioural Processes* 91: 152-158.
+Jennings, D.J., Elwood, R.W., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2012). Vocal rate as an assessment process during fallow deer contests. *Behavioural Processes* 91: 152-158. https://doi.org/10.1016/j.beproc.2012.07.003 :deer:
 
-Lally, H., Gormally, M., Higgins, T., Gammell, M. & Colleran, E. (2012). Phytoplankton assemblages in four wetlands created on cutaway peatlands in Ireland. *Biology and Environment: Proceedings of the Royal Irish Academy* 112(B): 207-216.
+Lally, H., Gormally, M., Higgins, T., Gammell, M. & Colleran, E. (2012). Phytoplankton assemblages in four wetlands created on cutaway peatlands in Ireland. *Biology and Environment: Proceedings of the Royal Irish Academy* 112(B): 207-216. https://doi.org/10.3318/BIOE.2012.07
 
 Carden, R.F., Carlin, C.M., Marnell, F., McElholm, D., Hetherington, J. & Gammell, M.P. (2011). Distribution and range expansion of deer in Ireland. *Mammal Review* 41: 313-325.
 
