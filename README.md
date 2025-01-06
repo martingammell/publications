@@ -58,7 +58,7 @@ Bolgan, M., O'Brien, J., Picciulin, M., Manning, L. & Gammell, M. (2017). Behavi
 
 Jennings, D.J., Boys, R. & Gammell, M.P. (2017). Investigating variation in third-party intervention behavior during a fallow deer (*Dama dama*) rut. *Behavioral Ecology* 28: 288-293. https://doi.org/10.1093/beheco/arw156 :deer:
 
-Jennings, D.J., Boys, R.J. & Gammell, M.P. (2017). Weapon damage is associated with contest dynamics but not mating success in fallow deer (*Dama dama*). *Biology Letters* 13: 20170565. https://doi.org/10.1098/rsbl.2017.0565
+Jennings, D.J., Boys, R.J. & Gammell, M.P. (2017). Weapon damage is associated with contest dynamics but not mating success in fallow deer (*Dama dama*). *Biology Letters* 13: 20170565. https://doi.org/10.1098/rsbl.2017.0565 :deer:
 
 Bolgan, M., Chorazyczewska, E., Winfield, I.J., Codarin, A., O'Brien, J., & Gammell, M. (2016). First observations of anthropogenic underwater noise in a large multi-use lake. *Journal of Limnology* 75: 644-651. https://doi.org/10.4081/jlimnol.2016.1405 :national_park:
 
@@ -78,7 +78,7 @@ Jennings, D.J., Hayden, T.J. & Gammell, M.P. (2013). Personality and predictabil
 
 Jennings, D.J., Elwood, R.W., Carlin, C.M., Hayden, T.J. & Gammell, M.P. (2012). Vocal rate as an assessment process during fallow deer contests. *Behavioural Processes* 91: 152-158. https://doi.org/10.1016/j.beproc.2012.07.003 :deer:
 
-Lally, H., Gormally, M., Higgins, T., Gammell, M. & Colleran, E. (2012). Phytoplankton assemblages in four wetlands created on cutaway peatlands in Ireland. *Biology and Environment: Proceedings of the Royal Irish Academy* 112(B): 207-216. https://doi.org/10.3318/BIOE.2012.07
+Lally, H., Gormally, M., Higgins, T., Gammell, M. & Colleran, E. (2012). Phytoplankton assemblages in four wetlands created on cutaway peatlands in Ireland. *Biology and Environment: Proceedings of the Royal Irish Academy* 112(B): 207-216. https://doi.org/10.3318/BIOE.2012.07 :national_park:
 
 Carden, R.F., Carlin, C.M., Marnell, F., McElholm, D., Hetherington, J. & Gammell, M.P. (2011). Distribution and range expansion of deer in Ireland. *Mammal Review* 41: 313-325. https://doi.org/10.1111/j.1365-2907.2010.00170.x :deer:
 
