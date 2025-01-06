@@ -12,15 +12,15 @@ Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2023). First steps towards the auto
 
 Pérez Tadeo, M., Gammell, M., O'Callaghan, S.A., O'Connor, I. & O'Brien, J. (2023). Disturbances due to unmanned aerial vehicles (UAVs) on Harbor Seal (*Phoca vitulina*) colonies: recommendations on best practices . *Marine Mammal Science* 39: 757-779. https://doi.org/10.1111/mms.13002 :seal:
 
-Jennings, D.J. & Gammell, M.P. (2022). Bystander fallow deer engage in third-party behaviour based on similarities in contestant resource-holding potential. *Animal Behaviour* 191: 33-41.
+Jennings, D.J. & Gammell, M.P. (2022). Bystander fallow deer engage in third-party behaviour based on similarities in contestant resource-holding potential. *Animal Behaviour* 191: 33-41. https://doi.org/10.1016/j.anbehav.2022.06.005 :deer:
 
-Mirimin, L., Brady, D., Gammell, M., Lally, H., Minto, C., Graham, C.T., Slattery, O., Cheslett, D., Morrissey, T., Reynolds, J., White, S. & Nelson, B. (2022). Investigation of the first recent crayfish plague outbreak in Ireland and its subsequent spread in the Bruskey River and surrounding areas. *Knowledge & Management of Aquatic Ecosystems* 423, 13:  https://doi.org/10.1051/kmae/2022011
+Mirimin, L., Brady, D., Gammell, M., Lally, H., Minto, C., Graham, C.T., Slattery, O., Cheslett, D., Morrissey, T., Reynolds, J., White, S. & Nelson, B. (2022). Investigation of the first recent crayfish plague outbreak in Ireland and its subsequent spread in the Bruskey River and surrounding areas. *Knowledge & Management of Aquatic Ecosystems* 423: 13.  https://doi.org/10.1051/kmae/2022011 :lobster:
 
-Gray, E., Capelli, G., Gammell, M.P., Roden, C.M. & Lally, H.T. (2022). A review of dystrophic lake and pool habitat in Europe: An Irish perspective. *Journal for Nature Conservation* 68, 126189: https://doi.org/10.1016/j.jnc.2022.126189
+Gray, E., Capelli, G., Gammell, M.P., Roden, C.M. & Lally, H.T. (2022). A review of dystrophic lake and pool habitat in Europe: An Irish perspective. *Journal for Nature Conservation* 68: 126189. https://doi.org/10.1016/j.jnc.2022.126189 :national_park:
 
-Gammell, M. & Carlin, C. (2021). First records of the Brown Hairstreak Butterfly (*Thecla betulae* (Linnaeus)) from Co. Mayo, Ireland. *Irish Naturalists' Journal* 38: 55-56.
+Gammell, M. & Carlin, C. (2021). First records of the Brown Hairstreak Butterfly (*Thecla betulae* (Linnaeus)) from Co. Mayo, Ireland. *Irish Naturalists' Journal* 38: 55-56. :butterfly:
 
-Gammell, M., McFarlane, A., Brady, D., O’Brien, J., Mirimin, L., Graham, C., Lally, H., Minto, C. & O’Connor, I. (2021). White-clawed Crayfish *Austropotamobius pallipes* survey in designated SACs in 2017. Irish Wildlife Manuals, No. 131. National Parks and Wildlife Service, Department of Housing, Local Government and Heritage, Ireland. 
+Gammell, M., McFarlane, A., Brady, D., O’Brien, J., Mirimin, L., Graham, C., Lally, H., Minto, C. & O’Connor, I. (2021). White-clawed Crayfish *Austropotamobius pallipes* survey in designated SACs in 2017. [Irish Wildlife Manuals, No. 131](https://www.npws.ie/sites/default/files/publications/pdf/IWM131.pdf). National Parks and Wildlife Service, Department of Housing, Local Government and Heritage, Ireland. :lobster:
 
 Jennings, D.J., Amin, B. & Gammell, M.P. (2021). Third-party assessment of contestants during fallow deer fights increases with resource abundance and dominance rank. *Animal Behaviour* 177: 81-89.
 
