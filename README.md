@@ -68,7 +68,7 @@ Bolgan, M., O'Brien, J., Rountree, R. & Gammell, M. (2016). Does the Arctic char
 
 Briffa, M., Hardy, I.C.W., Gammell, M.P., Jennings, D.J., Clarke, D.D. & Goubault, M. (2013). Analysis of animal contest data. In: Animal Contests (Ed. by I.C.W. Hardy and M. Briffa), pp. 47-85. Cambridge: Cambridge University Press. :chart_with_upwards_trend:
 
-Gammell, M.P. & O'Brien, J.M. (2013). Acoustic communication in aquatic animals: all quiet on the freshwater front? *Aquatic Conservation: Marine and Freshwater Ecosystems* 23: 363-365. https://doi.org/10.1002/aqc.2356 :studio_microphone:
+Gammell, M.P. & O'Brien, J.M. (2013). Acoustic communication in aquatic animals: all quiet on the freshwater front? *Aquatic Conservation: Marine and Freshwater Ecosystems* 23: 363-365. https://doi.org/10.1002/aqc.2356 :writing_hand:
 
 Hawkins, D., Gallacher, E. & Gammell, M. (2013). Statistical power, effect size and animal welfare: recommendations for good practice. *Animal Welfare* 22: 339-344. https://doi.org/10.7120/09627286.22.3.339 :chart_with_upwards_trend:
 
@@ -98,12 +98,12 @@ Jennings, D.J., Gammell, M.P., Payne, R.J.H & Hayden, T.J. (2005). An investigat
 
 Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2004). Effect of body weight, antler length, resource value and experience on fight duration and intensity in fallow deer. *Animal Behaviour* 68: 231-221. https://doi.org/10.1016/j.anbehav.2003.11.005 :deer:
 
-Gammell, M.P. & Hardy, I.C.W. (2003). Contest duration: sizing up the opposition? *Trends in Ecology & Evolution* 18: 491-493. https://doi.org/10.1016/S0169-5347(03)00222-2
+Gammell, M.P. & Hardy, I.C.W. (2003). Contest duration: sizing up the opposition? *Trends in Ecology & Evolution* 18: 491-493. https://doi.org/10.1016/S0169-5347(03)00222-2 :writing_hand:
 
-Gammell, M.P., de Vries, H., Jennings, D.J., Carlin, C.M. & Hayden, T.J. (2003). David’s score: a more appropriate dominance ranking method than Clutton-Brock et al.’s index. *Animal Behaviour* 66: 601-605.
+Gammell, M.P., de Vries, H., Jennings, D.J., Carlin, C.M. & Hayden, T.J. (2003). David’s score: a more appropriate dominance ranking method than Clutton-Brock et al.’s index. *Animal Behaviour* 66: 601-605. https://doi.org/10.1006/anbe.2003.2226 :chart_with_upwards_trend:
 
-Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2003). Is the parallel walk between competing male fallow deer (*Dama dama*) a lateral display of individual quality? *Animal Behaviour* 65: 1005-1012.
+Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2003). Is the parallel walk between competing male fallow deer (*Dama dama*) a lateral display of individual quality? *Animal Behaviour* 65: 1005-1012. https://doi.org/10.1006/anbe.2003.2124 :deer:
 
-Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2002). Does lateral presentation of the palmate antlers during fights by fallow deer (*Dama dama* L.) signify dominance or submission? *Ethology* 108: 389-401.
+Jennings, D.J., Gammell, M.P., Carlin, C.M. & Hayden, T.J. (2002). Does lateral presentation of the palmate antlers during fights by fallow deer (*Dama dama* L.) signify dominance or submission? *Ethology* 108: 389-401. https://doi.org/10.1046/j.1439-0310.2002.00785.x :deer:
 
-McElligott, A.G., Gammell, M.P., Harty, H.C., Paini, D.R., Murphy, D.T., Walsh, J.T. & Hayden, T.J. (2001). Sexual size dimorphism in fallow deer: do larger, heavier males gain more matings? *Behavioral Ecology and Sociobiology* 49: 266-272.
+McElligott, A.G., Gammell, M.P., Harty, H.C., Paini, D.R., Murphy, D.T., Walsh, J.T. & Hayden, T.J. (2001). Sexual size dimorphism in fallow deer: do larger, heavier males gain more matings? *Behavioral Ecology and Sociobiology* 49: 266-272. https://doi.org/10.1007/s002650000293 :deer:
