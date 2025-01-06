@@ -1,6 +1,6 @@
 ## Publication List
 
-O’Callaghan, S., Al Abbar, F., Costa, H., Prieto, R., Gammell, M. & O'Brien, J. (2024). Aerial Photo-Identification of Sperm Whales (*Physeter macrocephalus*). *Aquatic Mammals* 50: 479-494.
+O’Callaghan, S., Al Abbar, F., Costa, H., Prieto, R., Gammell, M. & O'Brien, J. (2024). Aerial Photo-Identification of Sperm Whales (*Physeter macrocephalus*). *Aquatic Mammals* 50: 479-494. https://doi.org/10.1578/AM.50.6.2024.479 :whale:
 
 O’Callaghan, S., Griffin, B., Levesque, S., Gammell, M. & O'Brien, J. (2024). Female, juvenile, and calf sperm whale *Physeter macrocephalus* (Linnaeus 1758) records from Ireland. *Ecology and Evolution* 14: e70056.
 
