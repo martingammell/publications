@@ -40,9 +40,9 @@ Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Nutrient pollution degrades micr
 
 Doddy, P., Roden, C.M. & Gammell, M.P.  (2019). Microbialite crusts in Irish limestone lakes reflect lake nutrient status. *Biology and Environment: Proceedings of the Royal Irish Academy* 119B: 1-11. https://doi.org/10.1353/bae.2019.0003 :national_park:
 
-O’Connor, J.P., O’Connor, M.A. & Gammell, M.P. (2019). The caddisfly *Hydropsyche fulvipes* (Curtis, 1834) (Trichoptera: Hydropsychidae): finally confirmed as an Irish species. *The Entomologist’s Record and Journal of Variation* 131: 26-31. :fly:
+O’Connor, J.P., O’Connor, M.A. & Gammell, M.P. (2019). The caddisfly *Hydropsyche fulvipes* (Curtis, 1834) (Trichoptera: Hydropsychidae): finally confirmed as an Irish species. *The Entomologist’s Record and Journal of Variation* 131: 26-31. :butterfly:
 
-Gammell, M.P.,  Carlin, C.M, O’Connor, J.P., O’Connor, M.A. & Brophy, J.T. (2018). The window winged sedge *Hagenella clathrata* (Kolenati, 1848) (Trichoptera: Phryganeidae) confirmed as an Irish species. *Bulletin of the Irish Biogeographical Society* 42: 45-57. :fly:
+Gammell, M.P.,  Carlin, C.M, O’Connor, J.P., O’Connor, M.A. & Brophy, J.T. (2018). The window winged sedge *Hagenella clathrata* (Kolenati, 1848) (Trichoptera: Phryganeidae) confirmed as an Irish species. *Bulletin of the Irish Biogeographical Society* 42: 45-57. :butterfly:
 
 Pérez Tadeo, M. & Gammell, M. (2018). Activity budgets in different habitats of a species of conservation concern in Ireland, the Light-bellied Brent Goose *Branta bernicla hrota*. [*Wildfowl* 68: 84–103](https://wildfowl.wwt.org.uk/index.php/wildfowl/article/view/2678/pdf_146). :duck:
 
