@@ -10,7 +10,7 @@ Cappelli, G., Gray, E., Gammell, M., Roden, C. & Lally, H. (2023). Physico-chemi
 
 Jennings, D.J. & Gammell, M.P. (2023). Fluctuating asymmetry of fallow deer antlers is associated with weapon damage but not tactical behaviour during fights. *Symmetry* 15: 829. https://doi.org/10.3390/sym15040829 :deer:
 
-Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2023). First steps towards the automated detection of underwater vocalisations of Grey Seals (Halichoerus grypus) in the Blasket Islands, Southwest Ireland. *Journal of Marine Science and Engineering* 11: 351. https://doi.org/10.3390/jmse11020351 :seal:
+Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2023). First steps towards the automated detection of underwater vocalisations of Grey Seals (*Halichoerus grypus*) in the Blasket Islands, Southwest Ireland. *Journal of Marine Science and Engineering* 11: 351. https://doi.org/10.3390/jmse11020351 :seal:
 
 Pérez Tadeo, M., Gammell, M., O'Callaghan, S.A., O'Connor, I. & O'Brien, J. (2023). Disturbances due to unmanned aerial vehicles (UAVs) on Harbor Seal (*Phoca vitulina*) colonies: recommendations on best practices . *Marine Mammal Science* 39: 757-779. https://doi.org/10.1111/mms.13002 :seal:
 
