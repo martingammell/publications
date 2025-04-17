@@ -30,7 +30,7 @@ Pérez Tadeo, M., Gammell, M. & O'Brien, J. (2021). Assessment of anthropogenic 
 
 Doyle, D., Frias, J., Nash, R. & Gammell, M. (2020). Current environmental microplastic levels do not alter emergence behaviour in the intertidal gastropod *Littorina littorea*. *Marine Pollution Bulletin* 151: 110859. https://doi.org/10.1016/j.marpolbul.2019.110859 :shell:
 
-Doyle, D., Gammell, M., Frias, J., Griffin, G. & Nash, R. (2019). Low levels of microplastics recorded from the common periwinkle, Littorina littorea on the west coast of Ireland. Marine Pollution Bulletin 149: 110645. https://doi.org/10.1016/j.marpolbul.2019.110645 :shell:
+Doyle, D., Gammell, M., Frias, J., Griffin, G. & Nash, R. (2019). Low levels of microplastics recorded from the common periwinkle, Littorina littorea on the west coast of Ireland. *Marine Pollution Bulletin* 149: 110645. https://doi.org/10.1016/j.marpolbul.2019.110645 :shell:
 
 McFarlane, A.D., O’Brien, J., Nelson, B. & Gammell, M. (2019). Estimating the population size of the endangered white-clawed crayfish *Austropotamobius pallipes* using mark-recapture at three Special Areas of Conservation (SACS). *Biology and Environment: Proceedings of the Royal Irish Academy* 119B: 75-91. https://doi.org/10.3318/bioe.2019.08 :lobster:
 
