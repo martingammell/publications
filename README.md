@@ -1,5 +1,7 @@
 ## Publication List
 
+Carlin, C. & Gammell, M. (2025). Brown Hairstreak (*Thecla betulae*). Pp. 64-65. In Harding & Lysaght (2025) *An Atlas of Butterflies in Ireland 2010-2021*. The National Biodiversity Data Centre. Waterford. :butterfly:
+
 Gammell, M. & O’Brien, J. (2024). First record of the Thrift Clearwing moth (*Pyropteron muscaeformis*) (Lepidoptera, Sesiidae) from Co. Galway. *Irish Naturalists’ Journal* 41: 99-100. :butterfly:
 
 O’Callaghan, S., Al Abbar, F., Costa, H., Prieto, R., Gammell, M. & O'Brien, J. (2024). Aerial Photo-Identification of Sperm Whales (*Physeter macrocephalus*). *Aquatic Mammals* 50: 479-494. https://doi.org/10.1578/AM.50.6.2024.479 :whale:
