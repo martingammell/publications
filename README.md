@@ -2,7 +2,7 @@
 
 Jennings, D.J. & Gammell, M.P. (in press). Decision making by third-party rivals is associated with antler structure in the fallow deer. *Animal Behaviour*. https://doi.org/10.1016/j.anbehav.2025.123305 :deer:
 
-Gammell, M., Lally, H.T., Graham, C., Weekes, L., Peredo Arce, A., Westwood, C., Dunbar, M. & Extence C. (2025). Biological Tools to Measure the Impact of Flow on Ecology in Irish Rivers. EPA Research Report No. 493: https://www.epa.ie/publications/research/water/research-493-biological-tools-to-measure-the-impact-of-flow-on-ecology-in-irish-rivers.php :national_park:
+Gammell, M., Lally, H.T., Graham, C., Weekes, L., Peredo Arce, A., Westwood, C., Dunbar, M. & Extence C. (2025). Biological Tools to Measure the Impact of Flow on Ecology in Irish Rivers. EPA Research Report No. 493. https://www.epa.ie/publications/research/water/research-493-biological-tools-to-measure-the-impact-of-flow-on-ecology-in-irish-rivers.php :national_park:
 
 Carlin, C. & Gammell, M. (2025). Brown Hairstreak (*Thecla betulae*). Pp. 64-65. In Harding & Lysaght (2025) *An Atlas of Butterflies in Ireland 2010-2021*. The National Biodiversity Data Centre. Waterford. :butterfly:
 
